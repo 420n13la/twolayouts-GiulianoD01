@@ -1,0 +1,28 @@
+.one {
+width: 50%;
+height: 100%;
+background-color: white;
+}
+.one h1{
+  text-align: center;
+  width: 60%;
+  padding: 1em;
+  margin-top: 7em;
+  border: 2px solid red;
+  font-family: cursive;
+  text : red;
+}
+.two{
+  width: 50%;
+  height: 100%;
+  background-color: red;
+}
+.two h1{
+  text-align: center;
+  width: 60%;
+  padding: 1em;
+  margin-top: 7em;
+  border: 2px solid red;
+  font-family: cursive;
+  text : white;
+}
