@@ -7,7 +7,7 @@ body {
 .one {
   width: 50%;
   height: 100%;
-  background-color: white;
+  background-color:#156711;
   float: left;
 }
 .one h1 {
@@ -15,7 +15,7 @@ body {
   width: 60%;
   padding: 1em;
   margin-top: 7em;
-  border: 2px solid red;
+  border: 2px solid #5AAC56;
   font-family: cursive;
   text: red;
   margin-left: auto;
@@ -24,7 +24,7 @@ body {
 .two {
   width: 50%;
   height: 100%;
-  background-color: red;
+  background-color: #0D4D4B;
   float: right;
 }
 .two h1 {
@@ -32,10 +32,18 @@ body {
   width: 60%;
   padding: 1em;
   margin-top: 7em;
-  border: 2px solid white;
+  border: 2px solid #41817F;
   font-family: cursive;
   text: white;
   margin-left: auto;
   margin-right: auto;
 }
-
+a{
+  text-decoration:none;
+}
+.one a{
+  color:#5AAC56
+}
+.two a{
+  color:#41817F
+}
