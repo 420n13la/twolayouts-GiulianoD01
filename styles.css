@@ -1,40 +1,41 @@
-html{
-  height:100%;
+html {
+  height: 100%;
 }
-body{
-  height:100%;
+body {
+  height: 100%;
 }
 .one {
-width: 50%;
-height: 100%;
-background-color: white;
-float:left;
+  width: 50%;
+  height: 100%;
+  background-color: white;
+  float: left;
 }
-.one h1{
+.one h1 {
   text-align: center;
   width: 60%;
   padding: 1em;
   margin-top: 7em;
   border: 2px solid red;
   font-family: cursive;
-  text : red;
-  margin-left:auto;
-  margin-right:auto;
+  text: red;
+  margin-left: auto;
+  margin-right: auto;
 }
-.two{
+.two {
   width: 50%;
   height: 100%;
   background-color: red;
-  float:right;
+  float: right;
 }
-.two h1{
+.two h1 {
   text-align: center;
   width: 60%;
   padding: 1em;
   margin-top: 7em;
   border: 2px solid white;
   font-family: cursive;
-  text : white;
-  margin-left:auto;
-  margin-right:auto;
+  text: white;
+  margin-left: auto;
+  margin-right: auto;
 }
+
